@@ -12,6 +12,10 @@
 2. 安装本插件，连接手机 Live Link Face，在 Hub 中确认主题有持续更新的表情数据。
 3. **工具 → 面捕设置**：选模型、填相同主题名，点 **接入面捕并放入场景**。运行后重新打开此窗口，完成 **重新校准 · 五步**。
 
+## 下载
+
+[UE 5.8.2 / Win64 预编译安装包与发布说明](https://github.com/Sakuya-hime/VRMFaceNodes/releases/tag/v1.3.0)。其他引擎版本按下方源码方式安装。
+
 ## 安装源码
 
 从 **Code → Download ZIP** 下载，解压后把仓库文件夹改名为 `VRMFaceNodes`，放入 `你的项目/Plugins/`。正确位置是 `Plugins/VRMFaceNodes/VRMFaceNodes.uplugin`。安装前关闭编辑器。
