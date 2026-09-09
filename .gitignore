@@ -1,0 +1,10 @@
+Binaries/
+Intermediate/
+Saved/
+.vs/
+*.sln
+Resources/VerifiedMouthProfile.json
+*.vrm
+*.mp4
+*.mp3
+*.sav

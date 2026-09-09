@@ -1,0 +1,36 @@
+{
+  "FileVersion": 3,
+  "Version": 10300,
+  "VersionName": "1.3.0",
+  "FriendlyName": "VRM Face Nodes（VRM 面捕节点）",
+  "Description": "可组合的中文面捕节点：自动识别模型、ARKit/MetaHuman 曲线映射、表情校准、晃头防抖、眼球和坐播跟随。",
+  "Category": "Animation",
+  "CreatedBy": "木花开耶姬",
+  "CanContainContent": true,
+  "EnabledByDefault": true,
+  "Modules": [
+    {
+      "Name": "VRMFaceNodes",
+      "Type": "Runtime",
+      "LoadingPhase": "Default"
+    },
+    {
+      "Name": "VRMFaceNodesEditor",
+      "Type": "UncookedOnly",
+      "LoadingPhase": "Default"
+    }
+  ],
+  "Plugins": [
+    {
+      "Name": "LiveLink",
+      "Enabled": true
+    },
+    {
+      "Name": "IKRig",
+      "Enabled": true
+    }
+  ],
+  "CreatedByURL": "https://github.com/Sakuya-hime",
+  "DocsURL": "https://github.com/Sakuya-hime/VRMFaceNodes#readme",
+  "SupportURL": "https://github.com/Sakuya-hime/VRMFaceNodes/issues"
+}
